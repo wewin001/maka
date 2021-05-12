@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC"-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>聚合采集站,聚合影视资源网－全球最大在线电影资源网站</title>
+<meta name="keywords" content="免费在线电影" />
+<meta name="description" content="提供最新最快的影视资讯和在线播放" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="renderer" content="webkit">
+<script>var SitePath='/',SiteAid='10',SiteTid='',SiteId='';</script>
+<script charset="utf-8" src="/template/juhe/js/jquery_ldg.js"></script>
+<script charset="utf-8" src="/template/juhe/js/jquery.lazyload.js"></script>
+<script charset="utf-8" src="/template/juhe/js/ldg.js"></script>
+<script charset="utf-8" src="/template/juhe/js/home.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/juhe/css/style.css">
+</head>
+<body>
+<font color="red" size="4"><div class=" notice"><b><br>
+  本站独家采用国内CDN宽带加速 拖拽秒播<br/>
+  <br/>
+  聚合资源采集帮助：<a href="/help/" target="blank">点此进入</a><br/>
+  <br/>
+  聚合资源采集福利：<a href="/fuli/" target="blank">点此进入</a><br/>
+  <br/>
+  打造无水印万部电影+全网影视资源<br/>
+  <br/>
+  <b>注意</b>：<strong>点击加 群聚合备用群(禁言)：1019019372<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=58BdetV"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="聚合影视资源站长交流" title="聚合影视资源站长交流"></a>点击加群 聚合交流群：642789083<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=HyAvBde8"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="聚合影视资源站长交流" title="聚合影视资源站长交流"></a>采集站长进群就送30套网站模板</a></strong><br>
+  <br>
+  本站独立M3U8解析地址：https://jx.cbi88.com/?url=
+  <br><br></b></div></font>
+<div class="xing_top">
+	
+  <marquee><font style="color:green">【<font style="color:red">聚合资源网提醒您</font>】：本站资源暂时只开放M3U8资源，<font style="color:red">请安装M3U8采集插件采集</font>如有视频内容不能播放请点击内容页<font style="color:red">报错</font>按钮完成上报。<font style="color:red">感谢支持！</font></font></marquee>
+  <ul>
+    <li class="xing_top_left"><img src="/template/juhe/pic/logo.png" width="180" alt="1111"></li>
+    <li class="xing_top_center">
+      <div class="search">
+        <div class="search-inner">
+          <form action="/index.php?m=vod-search" method="post">
+            <input type="text" x-webkit-speech="" autocomplete="off" name="wd" id="wd" class="search-text" onblur="if(this.value==''){ this.value='41197部影片任你搜索';this.style.color='#cfcdcd';}" onfocus="if(this.value=='54339部影片任你搜索'){this.value='';this.style.color='';}" value="54339部影片任你搜索">
+            <input type="submit" class="search-btn" value="搜索">
+          </form>
+        </div>
+      </div>
+    </li>
+    <li class="xing_top_right">
+      <div class="topright">
+        <ul>
+          <li>今日更新：<strong>623</strong></li>
+        </ul>
+        <ul>
+          <li>本站共收录影片资源：<strong>54339</strong></li>
+        </ul>
+        <ul>
+          <li><a href="javascript:window.external.addFavorite(location.href,'聚合采集站,聚合影视资源网－全球最大在线电影资源网站');">收藏本站</a> | <a class="ge" onclick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage(location.href);" href="#" id="topmenu1" accesskey="1">设为首页</a> | <a href="/index.php?m=gbook-show.html">联系站长</a> </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+  <div style="clear:both"></div>
+</div>
+<div class="sddm">
+  <ul id="sddm">
+    <li><a href="/">首页</a></li>
+		
+    <li><a href="/?m=vod-type-id-1.html" onmouseover="mopen('m1')" onmouseout="mclosetime()">电影片</a>
+      <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				
+				<a href="/?m=vod-type-id-5.html">动作片</a>
+				
+				<a href="/?m=vod-type-id-6.html">喜剧片</a>
+				
+				<a href="/?m=vod-type-id-7.html">爱情片</a>
+				
+				<a href="/?m=vod-type-id-8.html">科幻片</a>
+				
+				<a href="/?m=vod-type-id-9.html">恐怖片</a>
+				
+				<a href="/?m=vod-type-id-10.html">剧情片</a>
+				
+				<a href="/?m=vod-type-id-11.html">战争片</a>
+				
+				<a href="/?m=vod-type-id-22.html">记录片</a>
+				
+				<a href="/?m=vod-type-id-23.html">短片</a>
+				
+				<a href="/?m=vod-type-id-24.html">动画片</a>
+				
+				<a href="/?m=vod-type-id-34.html">说电影</a>
+				
+			</div>
+    </li>
+		
+    <li><a href="/?m=vod-type-id-2.html" onmouseover="mopen('m2')" onmouseout="mclosetime()">连续剧</a>
+      <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				
+				<a href="/?m=vod-type-id-12.html">国产剧</a>
+				
+				<a href="/?m=vod-type-id-13.html">香港剧</a>
+				
+				<a href="/?m=vod-type-id-14.html">韩国剧</a>
+				
+				<a href="/?m=vod-type-id-15.html">欧美剧</a>
+				
+				<a href="/?m=vod-type-id-16.html">台湾剧</a>
+				
+				<a href="/?m=vod-type-id-17.html">日本剧</a>
+				
+				<a href="/?m=vod-type-id-18.html">海外剧</a>
+				
+				<a href="/?m=vod-type-id-33.html">泰国剧</a>
+				
+			</div>
+    </li>
+		
+    <li><a href="/?m=vod-type-id-3.html" onmouseover="mopen('m3')" onmouseout="mclosetime()">综艺片</a>
+      <div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				
+				<a href="/?m=vod-type-id-30.html">港台综艺</a>
+				
+				<a href="/?m=vod-type-id-31.html">韩国综艺</a>
+				
+				<a href="/?m=vod-type-id-32.html">大陆综艺</a>
+				
+			</div>
+    </li>
+		
+    <li><a href="/?m=vod-type-id-4.html" onmouseover="mopen('m4')" onmouseout="mclosetime()">动漫片</a>
+      <div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				
+				<a href="/?m=vod-type-id-25.html">国产动漫</a>
+				
+				<a href="/?m=vod-type-id-26.html">欧美动漫</a>
+				
+				<a href="/?m=vod-type-id-27.html">日本动漫</a>
+				
+			</div>
+    </li>
+		
+    <li><a href="/?m=vod-type-id-21.html" onmouseover="mopen('m21')" onmouseout="mclosetime()">音乐片</a>
+      <div id="m21" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				
+				<a href="/?m=vod-type-id-35.html">MV热曲</a>
+				
+				<a href="/?m=vod-type-id-36.html">DJ系列</a>
+				
+			</div>
+    </li>
+		
+    <li><a href="/?m=vod-type-id-22.html" onmouseover="mopen('m22')" onmouseout="mclosetime()">记录片</a>
+      <div id="m22" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				
+			</div>
+    </li>
+		
+  </ul>
+  <div style="clear:both"></div>
+</div>
+
+<div class="addition-content">
+  <ul class="videoContent">
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-83594.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />甜蜜国度&nbsp;<font color="#FF0000">BD1280高清中英双字版</font></a><span class="region">其它</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-83594.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-44484.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />蜩之记&nbsp;<font color="#FF0000">BD日语中字</font></a><span class="region">日本</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-44484.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-3347.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />东北兄弟之误闯江湖&nbsp;<font color="#FF0000">HD1280高清国语中字版</font></a><span class="region">大陆</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-3347.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-75500.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />铁血骑警【国语】&nbsp;<font color="#FF0000">HD高清</font></a><span class="region">香港</span><span class="category">动作片</span><a href="/?m=vod-detail-id-75500.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-58663.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />铁血守护者&nbsp;<font color="#FF0000">HD</font></a><span class="region">美国</span><span class="category">战争片</span><a href="/?m=vod-detail-id-58663.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-43971.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />同义词&nbsp;<font color="#FF0000">BD</font></a><span class="region">法国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-43971.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-42163.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />千禧年三部曲3：捅马蜂窝的女孩&nbsp;<font color="#FF0000">BD超清中字</font></a><span class="region">其它</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-42163.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-79956.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />头痛欲裂&nbsp;<font color="#FF0000">HD1280高清中字版</font></a><span class="region">其它</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-79956.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-14068.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />突袭2：暴徒&nbsp;<font color="#FF0000">HD</font></a><span class="region">其它</span><span class="category">动作片</span><a href="/?m=vod-detail-id-14068.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-72468.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />透明人2&nbsp;<font color="#FF0000">HD高清</font></a><span class="region">美国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-72468.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-59968.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />图书馆战争2：最后的任务&nbsp;<font color="#FF0000">HD</font></a><span class="region">日本</span><span class="category">动作片</span><a href="/?m=vod-detail-id-59968.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-10716.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />推理笔记&nbsp;<font color="#FF0000">HD高清</font></a><span class="region">大陆</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-10716.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-19575.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />脱单告急&nbsp;<font color="#FF0000">HD</font></a><span class="region">大陆</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-19575.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-39109.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />外出偷马&nbsp;<font color="#FF0000">HD</font></a><span class="region">其它</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-39109.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-83987.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />玩转全家福&nbsp;<font color="#FF0000">BD1280高清国语中字版|粤语中字版</font></a><span class="region">香港</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-83987.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-17744.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />外星人吃了我的作业&nbsp;<font color="#FF0000">HD1280高清中英双字版</font></a><span class="region">美国</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-17744.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-84026.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />王牌杀手&nbsp;<font color="#FF0000">HD1280高清国语中字版</font></a><span class="region">大陆</span><span class="category">动作片</span><a href="/?m=vod-detail-id-84026.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-84129.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />危险的传言&nbsp;<font color="#FF0000">BD超清中字</font></a><span class="region">韩国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-84129.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-37477.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />文森特与世界的尽头&nbsp;<font color="#FF0000">BD超清法语中字</font></a><span class="region">法国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-37477.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-68817.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我的宠物恐龙&nbsp;<font color="#FF0000">HD</font></a><span class="region">其它</span><span class="category">动作片</span><a href="/?m=vod-detail-id-68817.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-81011.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我的间谍&nbsp;<font color="#FF0000">BD超清</font></a><span class="region">美国</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-81011.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-87266.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我的名字叫莎拉&nbsp;<font color="#FF0000">BD</font></a><span class="region">美国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-87266.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-35997.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我的兄弟姐妹&nbsp;<font color="#FF0000">BD国语超清</font></a><span class="region">大陆</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-35997.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-84823.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我的正妹教练&nbsp;<font color="#FF0000">HD中字</font></a><span class="region">其它</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-84823.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-2006.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我们这种叛徒&nbsp;<font color="#FF0000">HD高清</font></a><span class="region">美国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-2006.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-43173.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我心遗忘的节奏&nbsp;<font color="#FF0000">BD高清中字</font></a><span class="region">法国</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-43173.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-22324.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />我是杀人犯&nbsp;<font color="#FF0000">HD1280高清中字版</font></a><span class="region">韩国</span><span class="category">动作片</span><a href="/?m=vod-detail-id-22324.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-86244.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />乌龙小姐2020&nbsp;<font color="#FF0000">HD</font></a><span class="region">美国</span><span class="category">喜剧片</span><a href="/?m=vod-detail-id-86244.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-37844.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />无伴奏&nbsp;<font color="#FF0000">BD1280超清日语中字</font></a><span class="region">日本</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-37844.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+    <li><a class="videoName" href="/?m=vod-detail-id-93685.html" target="blank"><img class="new" src="/template/juhe/pic/new.gif" />无法触碰的爱 どうしても触れたくない2014&nbsp;<font color="#FF0000">HD高清</font></a><span class="region">日本</span><span class="category">剧情片</span><a href="/?m=vod-detail-id-93685.html" class="address">点击进入</a><span class="time">2021-05-12</span></li>
+    
+  </ul>
+</div>
+<div class="clear"></div>
+
+
+   <ul style="display:block;clear:both;">
+
+    <li><div class="pages" style="margin-bottom:10px;">共54339条数据&nbsp;当前:1/1812页&nbsp;<em>首页</em>&nbsp;<em>上一页</em>&nbsp;<span class="pagenow">1</span>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-2.html">2</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-3.html">3</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-4.html">4</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-5.html">5</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-6.html">6</a>&nbsp;<a target="_self" href="/?m=vod-index-pg-2.html" class="pagelink_a">下一页</a>&nbsp;<a target="_self" href="/?m=vod-index-pg-1812.html" class="pagelink_a">尾页</a>&nbsp;<input type="input" name="page" id="page" size="4" class="pagego"/><input type="button" value="跳 转" onclick="pagego('/?m=vod-index-pg-{pg}.html',1812)" class="pagebtn" /></div></li>
+
+   </ul> 
+
+
+</div>
+
+</body>
+</html>
